@@ -1,4 +1,4 @@
-module protos
+module github.com/DanceDaemon/protos
 
 go 1.22.0
 
